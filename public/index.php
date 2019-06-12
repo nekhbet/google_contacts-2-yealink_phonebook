@@ -1,0 +1,1 @@
+OK ... connected to <?php echo $_SERVER['REMOTE_ADDR']; ?>
